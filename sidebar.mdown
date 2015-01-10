@@ -1,0 +1,174 @@
+>>* Map Making
+* [Thread 41](http://redd.it/2qhv19)
+* [Thread 40](http://redd.it/2ofuev)
+* [Link to Previous Threads]
+(/r/tagpro/wiki/maps#wiki_previous_map_threads)
+* [Map Making IRC](http://webchat.freenode.net/?channels=tagpromaps)
+* [Some Bot Home Page](http://maps.jukejuice.com/)
+
+>>#
+
+>>* Competitive TagPro
+* [Major league](/r/MLTP)
+* [Minor league](/r/minorLTP)
+* [Novice league](/r/NLTP)
+* [European league](/r/ELTP)
+* [Oceanic league](/r/OLTP)
+* [Hockey league](/r/TPLH)
+* [Centra league](/r/CLTP)
+* [Radius league](/r/RLTP)
+* /r/RegionWars
+* /r/USContenders
+* /r/ChordContenders
+* /r/OContenders
+* [Open Field Masters](/r/OFM)
+
+>>#
+
+>>* MLTP/mLTP Info
+* [MLTP Wiki](/r/tagpro/wiki/mltp)
+* [MLTP Season 6 Stats Board](http://goo.gl/Td8VGb)
+* [mLTP Stats](http://goo.gl/RdfbtG)
+
+>>#
+
+>>* Challenges
+* [Time Trials Thread](/1k0gts)
+* [Challenge Compilation Thread](/1sdo0n)
+* [Open Field Masters Ladder Thread](http://goo.gl/U9QfyB)
+* [2v2 Ladder Thread](http://goo.gl/PYGIy7)
+
+---
+
+[](http://tagpro.gg)
+
+#[Calendar](http://goo.gl/3WWk2P)
+
+[](#cal)
+
+|Day|Time (PDT)|Event
+|:-|:-|:-
+| Nov 21 | 11:30 AM | Friday Night Chorbit Tournament
+| Nov 26 | 12:00 AM | LoweJ's birthday. Shower that scrub with gifts.
+| Nov 28 | 11:30 AM | Friday Night Chorbit Tournament
+| Dec 05 | 11:30 AM | Friday Night Chorbit Tournament
+| Dec 12 | 11:30 AM | Friday Night Chorbit Tournament
+[](#cal)
+
+#About TagPro
+
+Grab the other team's flag and bring it back to yours. Stop the other team from doing the same by popping any opponent with your flag. So simple, yet so fun!
+
+#/r/TagPro Guidelines
+
+A post in violation of any guideline is subject to mockery.
+
+1. Check the [TagPro wiki](/r/TagPro/wiki/) to learn about everything TagPro.
+
+2. Check the [Road Map spreadsheet](/1ydlcc) for discussions on suggestions and bug fixes before you make a post about it. It may have been mentioned before and already on the developers' radar!
+
+3. Use [Bug], [Suggestion] and [MLTP] tags if you're posting a bug, suggestion, or MLTP post, respectively.
+
+#/r/TagPro Rules
+
+A post in violation of any rule is subject to removal.
+
+1. No Memes. /r/TagProMeme is the appropriate subreddit.
+
+2. [Do not make a post about lag until after you have used this video to troubleshoot.](http://youtu.be/0qUW56R6kTI) If you make a post, include the MTR results.  [Look here](http://www.reddit.com/r/TagPro/comments/2j6qx7/how_to_run_an_mtr_on_mac/) if you need to run an MTR on a Mac.
+
+3. [Read this if you have been banned.](http://i.imgur.com/uxYCUaw.png) Follow the directions on your ban page if you feel that your ban was not warranted. DO NOT submit a post to the subreddit or message the moderators.
+
+4. [This is an easter egg that occurs 1 in 1,000 games.](http://i.imgur.com/vN3MKln.jpg) Do not make a post about it.
+
+#Links
+
+- [TagPro Game](http://tagpro.gg/)
+- [Bugs, Enhacements and Suggestions](https://github.com/tagpro-game/tagpro-issues/issues)
+- [TagPro Chrome Extension](https://tinyurl.com/tagproext)
+- [How to Play (Video)](http://youtu.be/mCO1HsOcXM4)
+- [IRC Channel](http://tinyurl.com/tpirc)
+- [Mumble Server](/r/tagpro/wiki/mumble)
+- [Plug.dj Room](https://plug.dj/tagpro)
+- [List of players' reddit accounts](http://goo.gl/zAM2oy)
+- [TagPro Event Calendar](/20unlu)
+- [Twitch.TV](http://www.twitch.tv/tagprotv)
+- [Stat Tracker](http://tagpro-stats.com/)
+- [Map Test Server](http://tinyurl.com/tptestmap)  
+- [2v2 ladder](/26qflt)
+
+#Help and How Tos
+
+- /r/lrn2tagpro
+- [Felix's Guide To Defense](http://redd.it/1njysa)
+- [Infinity's Guide to Offense](http://redd.it/2oevl3)
+- [Creating Maps](/r/tagpro/wiki/mapcreation)
+- [Glossary of TagPro terms](/r/tagpro/wiki/glossary)
+- [Play Pick-up games using Mumble and IRC (Video)](http://youtu.be/cpJfmpNy4EU)
+- [Advanced strategies](/r/tagpro/wiki/strategy)
+- [Add TagPro images to comments](/1q3nvw)
+
+#Related Subreddits
+
+- /r/TagProIRL
+- [Multireddit of all active and relevant TagPro subreddits](/u/DrRecommended/m/tagpro)
+
+Regional:
+
+- /r/OceanicTagPro
+- /r/spheremasterrace
+- /r/RadiusTP
+- /r/PiMasterRace
+
+---
+**Follow Us:** [](https://www.fb.com/tagprogame) [](https://twitter.com/TheKoalaBeast)
+
+---
+[](http://tinyurl.com/nho6fr2)
+
+#MLTP
+
+[](#standings)
+
+MLTP|Overall|W-L-T|||
+:-:|:--|:-:|:-:|:-:
+**Rank**|**Team Name**|**Record**|**Points**|**±**
+1|**Tears for Spheres**|||vs.
+6|KGBallersl|||
+1|30 Seconds to Mars Ball|||vs.
+2|Rektiles|||
+
+
+[Full League Table including divisions](http://goo.gl/RLj0iq)
+
+#European League TagPro
+
+ELTP|League||||
+:-:|:--|:-:|:-:|:-:
+**Rank**|**Team Name**|**Record**|**Points**|**±**
+1|**Rolling BC**|12-3-2|41|31
+2|TagPro Rangers|13-5-0|39|72
+3|Blockburn Rovers|9-7-2|29|12
+
+[Full league table](http://eltp.eu/eltp-league-table/)
+
+#Oceanic League TagPro
+
+OLTP|League||||
+:-:|:--|:-:|:-:|:-:
+**Rank**|**Team Name**|**Record**|**Points**|**±**
+1|**0.12 Rubles**|5-0-1|13|22
+2|Spikedelic Death Caps|4-1-1|13|38
+3|The Cap-22's|3-1-2|11|40
+
+
+[Full league table](http://goo.gl/Igihbt)
+
+####
+
+[](#default)
+[](#default)
+[](#default)
+[](#default)
+[](#default)
+[](#default)
